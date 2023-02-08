@@ -1,0 +1,10 @@
+#page_header{
+    min-height: 10vh;
+    background-color: blue;
+}
+
+@media only screen and (min-width: 720px) {
+    #page_header{
+        background-color: orange;
+    }
+}
